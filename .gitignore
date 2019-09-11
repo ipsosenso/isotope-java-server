@@ -1,0 +1,23 @@
+### virtual machine crash logs
+hs_err_pid*
+
+### intellij
+.idea
+*.iml
+
+### Package Files #
+*.jar
+*.war
+*.ear
+
+### Maven Garbage...
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+/target/
