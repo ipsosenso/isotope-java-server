@@ -33,7 +33,7 @@
     <name>ISOTOPE - Bom</name>
 
     <properties>
-        <springboot.version>1.5.9.RELEASE</springboot.version>
+        <springboot.version>2.2.11.RELEASE</springboot.version>
         <isotope.core>${project.version}</isotope.core>
         <isotope.common>${project.version}</isotope.common>
         <isotope.security.basic>${project.version}</isotope.security.basic>
